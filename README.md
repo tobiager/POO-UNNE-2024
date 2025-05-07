@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
 </p>
 
-# 📚 Object-Oriented Programming - HOLA 2024
+# 📚 Object-Oriented Programming - UNNE 2024
 
 This repository contains all my coursework, study materials, exercises, and projects from the **Object-Oriented Programming (POO)** course at **UNNE (Universidad Nacional del Nordeste)**.
 
