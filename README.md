@@ -75,4 +75,4 @@ The final project was the culmination of everything learned:
 
 ---
 
-<p align="center"><b>❤️🐔 Made with passion by Tobias — Coding, learning and always improving</b></p>
+<p align="center"><b>❤️🐔 Made with passion by Tobias </b></p>
