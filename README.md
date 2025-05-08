@@ -8,65 +8,78 @@
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
 </p>
 
-# 📚 Object-Oriented Programming - UNNE 2024
+# 🎓 Object-Oriented Programming - UNNE 2024
 
-This repository contains all my coursework, study materials, exercises, and projects from the **Object-Oriented Programming (POO)** course at **UNNE (Universidad Nacional del Nordeste)**.
+This repository brings together all the exercises, study materials, theory and projects developed during the **Object-Oriented Programming (POO)** course at **UNNE - Facultad de Ciencias Exactas y Naturales y Agrimensura (FaCENA)**.
 
-Throughout this subject, I built a solid foundation in Java and applied all concepts in real scenarios, with the highlight being a comprehensive **Integrative Project**, which involved solving a complete problem using Object-Oriented principles.
-
----
-
-## 📂 Repository Structure
-
-- 📖 **Course Materials** → Program, planning, and theory.
-- 📚 **Theory and Final Exam Preparation** → Notes, solved exercises, and exam projects.
-- 🧰 **Practical Exercises** → Guided and self-developed exercises to master the core OOP concepts.
-- 🏗️ **Integrative Project** → A complete and complex Java project demonstrating everything learned.
+The highlight of the course was the **Integrative Project**, where I combined all acquired knowledge into a comprehensive real-world software solution using Java and advanced OOP techniques.
 
 ---
 
-## 🚀 What I Learned and Applied
+## 📦 Repository Structure
+
+| Folder | Content |
+| ------ | ------- |
+| 📖 Course Materials | Syllabus, planning, and theoretical resources |
+| 📚 Theory and Exam Projects | Notes, solved exercises and the final exam project |
+| 🧰 Practical Exercises | Step-by-step exercises focusing on OOP fundamentals |
+| 🏗️ Integrative Project | Complete Java project applying everything learned |
+
+---
+
+## 🚀 Main Topics and Concepts Applied
 
 ### ✅ Java Fundamentals
-- Syntax, control structures, variables, and data types.
-- Modular programming through methods and clean code.
+- Syntax, control structures, data types, and modular programming.
+- File handling and exception management.
 
 ### ✅ Object-Oriented Programming (OOP)
-- **Classes and Objects** → Modeling real-world entities.
-- **Encapsulation** → Data hiding and method exposure.
-- **Inheritance** → Reusing and extending classes.
-- **Polymorphism** → Designing flexible and dynamic software.
-- **Abstraction** → Building reusable and maintainable code structures.
+- **Classes & Objects** → Modeling real-world entities.
+- **Encapsulation** → Controlled access to data.
+- **Abstraction** → Simplifying complex systems.
+- **Inheritance & Polymorphism** → Code reuse and flexible behavior.
 
-### ✅ Advanced Programming Concepts
-- **File Handling** → Reading and writing to text files for persistence.
-- **Exception Handling** → Managing runtime errors robustly.
-- **UML Diagrams & Documentation** → Designing and documenting code with clarity.
+> [!TIP]
+> Mastering encapsulation and inheritance are key to writing clean, scalable software.
+
+### ✅ Collections and Advanced Use
+- Static (arrays) and dynamic (ArrayList, HashSet, HashMap) collections.
+- Homogeneous vs Heterogeneous collections.
+- Efficient storage and retrieval techniques.
+
+> [!NOTE]
+> Dynamic collections like ArrayList greatly improve flexibility compared to fixed-size arrays.
+
+### ✅ UML & Modeling
+- Building class diagrams to plan and structure code before implementation.
+
+> [!IMPORTANT]
+> UML modeling ensures that code remains organized and easier to maintain and expand.
 
 ---
 
 ## 🏆 Integrative Project (Main Highlight)
 
-The final **Integrative Project** was the ultimate challenge and demonstration of my skills in Object-Oriented Programming. 
+The **Integrative Project** was the most demanding and rewarding part of the course.  
+It consisted of creating a complete software solution that:
 
-**Objectives and Achievements:**
-- ✅ Designed and implemented a complete Java application from scratch.
-- ✅ Applied OOP concepts: classes, inheritance, collections, exception handling, and polymorphism.
-- ✅ Developed a modular, organized, and maintainable codebase.
-- ✅ Included persistent data storage through files.
-- ✅ Designed a user-friendly, menu-driven interface.
-- ✅ Worked in a team-based scenario, dividing tasks and integrating modules seamlessly.
+✅ Managed complex data through classes and inheritance.  
+✅ Used polymorphism to handle different object types uniformly.  
+✅ Implemented user interaction through menus and file persistence.  
+✅ Solved a real-world problem using modular and well-structured Java code.
 
-The project reflected my ability to solve complex real-life problems, combining programming skills, design patterns, and team collaboration — just like real software projects.
+> [!CAUTION]
+> This project required applying all previously learned concepts. Poor design could result in rigid and hard-to-maintain code.
 
 ---
 
 ## 🎓 Final Exam Project
 
-As part of the evaluation process, I developed a full standalone Java program demonstrating:
-- Proper use of OOP concepts.
-- Clean code with correct documentation.
-- Efficient problem-solving under exam conditions.
+In the exam, a full standalone program was developed to:
+
+- Demonstrate proper OOP application.
+- Solve problems efficiently under pressure.
+- Showcase clean code and proper documentation practices.
 
 ---
 
@@ -83,11 +96,11 @@ As part of the evaluation process, I developed a full standalone Java program de
 
 ## 📌 Notes
 
-- All projects and exercises in this repository were developed as part of the **Object-Oriented Programming course at UNNE - Facultad de Ciencias Exactas y Naturales y Agrimensura (FaCENA)**.
-- Exercises contain comments and explanations in Spanish.
-- This repository reflects my entire learning process from basics to full real-world applications using Java and OOP principles.
+- Developed as part of the **UNNE - Facultad de Ciencias Exactas y Naturales y Agrimensura (FaCENA)** 2024 course.
+- Exercises and projects include Spanish comments and explanations.
+- The repository reflects the complete journey from Java fundamentals to building real-world OOP-based applications.
 
 ---
 
-<p align="center"><b>❤️🐔 Made with passion by Tobias </b></p>
+<p align="center"><b>❤️🐔 Made with passion and dedication by Tobias</b></p>
 
