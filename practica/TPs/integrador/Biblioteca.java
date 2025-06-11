@@ -319,7 +319,7 @@ public class Biblioteca
         
         for(Libro libro : this.getLibros()){
             for(Prestamo prestamo : libro.getPrestamos()){
-                if(prestamo.vencido(prestamo.getFechaDevolucion())){
+                if(prestamo.vencido(Calendar.getInstance())){
                     prestamos.add(prestamo);
                 }
             }
@@ -396,15 +396,12 @@ public class Biblioteca
      * @return {@code true} devuelve el socio, {@code false} si no null
      */
     public Socio buscarSocio(int p_dni){
-        Socio pers = null;
         for(Socio socio : this.getSocios()){
             if(socio.getDniSocio() == p_dni){
-               pers = socio; 
-            }else{
-               pers = null; 
+               return socio;
             }
         }
-        return pers;
+        return null;
     }
     
     /**
