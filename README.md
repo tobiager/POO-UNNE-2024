@@ -2,6 +2,13 @@
   <img src="./assets/facena.png" alt="Logo de FACENA" width="100"/>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/tobiager">
+    <img src="https://img.shields.io/github/followers/tobiager?label=Follow%20@tobiager&style=social" alt="Follow @tobiager" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/UNNE-Informática-blue?style=for-the-badge"/>
@@ -102,4 +109,5 @@ Como parte de la evaluación, se desarrolló un programa autónomo que:
 ---
 
 <p align="center"><b>❤️🐔 Hecho con pasión y dedicación por Tobias</b></p>
+
 
